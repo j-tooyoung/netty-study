@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netty-Elasticsearch" />
+        <module name="netty-websocket" />
+        <module name="netty-springboot-2-1" />
+        <module name="netty-demo-1-12" />
+        <module name="netty-helloworld" />
+        <module name="netty-communication-sync" />
+        <module name="netty-heart-recommunication" />
+        <module name="netty-pojo-protostuff" />
+        <module name="netty-filetransport" />
+        <module name="netty-Protobuf" />
+        <module name="netty-messagetype" />
+        <module name="netty-encode-decode" />
+        <module name="netty-cluster" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty-cluster" target="1.8" />
+      <module name="netty-communication-sync" target="1.8" />
+      <module name="netty-demo-1-12" target="1.8" />
+      <module name="netty-Elasticsearch" target="1.8" />
+      <module name="netty-encode-decode" target="1.8" />
+      <module name="netty-filetransport" target="1.8" />
+      <module name="netty-heart-recommunication" target="1.8" />
+      <module name="netty-helloworld" target="1.8" />
+      <module name="netty-messagetype" target="1.8" />
+      <module name="netty-pojo-protostuff" target="1.8" />
+      <module name="netty-Protobuf" target="1.8" />
+      <module name="netty-springboot" target="1.8" />
+      <module name="netty-springboot-2-1" target="1.8" />
+      <module name="netty-websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="netty-springboot-2-1" options="-parameters" />
+    </option>
+  </component>
+</project>

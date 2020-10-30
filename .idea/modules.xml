@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-Elasticsearch/netty-Elasticsearch.iml" filepath="$PROJECT_DIR$/netty-Elasticsearch/netty-Elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-Protobuf/netty-Protobuf.iml" filepath="$PROJECT_DIR$/netty-Protobuf/netty-Protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-cluster/netty-cluster.iml" filepath="$PROJECT_DIR$/netty-cluster/netty-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-communication-sync/netty-communication-sync.iml" filepath="$PROJECT_DIR$/netty-communication-sync/netty-communication-sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-demo-1-12/netty-demo-1-12.iml" filepath="$PROJECT_DIR$/netty-demo-1-12/netty-demo-1-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-encode-decode/netty-encode-decode.iml" filepath="$PROJECT_DIR$/netty-encode-decode/netty-encode-decode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-filetransport/netty-filetransport.iml" filepath="$PROJECT_DIR$/netty-filetransport/netty-filetransport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-heart-recommunication/netty-heart-recommunication.iml" filepath="$PROJECT_DIR$/netty-heart-recommunication/netty-heart-recommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-helloworld/netty-helloworld.iml" filepath="$PROJECT_DIR$/netty-helloworld/netty-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-messagetype/netty-messagetype.iml" filepath="$PROJECT_DIR$/netty-messagetype/netty-messagetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-pojo-protostuff/netty-pojo-protostuff.iml" filepath="$PROJECT_DIR$/netty-pojo-protostuff/netty-pojo-protostuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-springboot-2-1/netty-springboot-2-1.iml" filepath="$PROJECT_DIR$/netty-springboot-2-1/netty-springboot-2-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-study.iml" filepath="$PROJECT_DIR$/netty-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-websocket/netty-websocket.iml" filepath="$PROJECT_DIR$/netty-websocket/netty-websocket.iml" />
     </modules>
   </component>
 </project>

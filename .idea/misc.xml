@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/netty-demo-1-12/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-springboot-2-1/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-Protobuf/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-pojo-protostuff/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-filetransport/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-communication-sync/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-heart-recommunication/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-messagetype/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-Elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-encode-decode/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
