@@ -15,6 +15,7 @@
         <module name="netty-heart-recommunication" />
         <module name="netty-pojo-protostuff" />
         <module name="netty-filetransport" />
+        <module name="netty-basic" />
         <module name="netty-Protobuf" />
         <module name="netty-messagetype" />
         <module name="netty-encode-decode" />
@@ -22,6 +23,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="netty-basic" target="1.8" />
       <module name="netty-cluster" target="1.8" />
       <module name="netty-communication-sync" target="1.8" />
       <module name="netty-demo-1-12" target="1.8" />
@@ -36,6 +38,7 @@
       <module name="netty-springboot" target="1.8" />
       <module name="netty-springboot-2-1" target="1.8" />
       <module name="netty-websocket" target="1.8" />
+      <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

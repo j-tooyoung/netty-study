@@ -3,9 +3,6 @@ package org.example.client;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;
-import org.example.codec.ObjDecoder;
-import org.example.codec.ObjEncoder;
-import org.example.domain.MsgInfo;
 //import io.netty.handler.codec.serialization.ObjectDecoder;
 //import io.netty.handler.codec.serialization.ObjectEncoder;
 

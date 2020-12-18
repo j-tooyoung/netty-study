@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/netty-messagetype/pom.xml" />
         <option value="$PROJECT_DIR$/netty-Elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/netty-encode-decode/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-basic/pom.xml" />
       </list>
     </option>
   </component>

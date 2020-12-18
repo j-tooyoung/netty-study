@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/netty-Elasticsearch/netty-Elasticsearch.iml" filepath="$PROJECT_DIR$/netty-Elasticsearch/netty-Elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-Protobuf/netty-Protobuf.iml" filepath="$PROJECT_DIR$/netty-Protobuf/netty-Protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-basic/netty-basic.iml" filepath="$PROJECT_DIR$/netty-basic/netty-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-cluster/netty-cluster.iml" filepath="$PROJECT_DIR$/netty-cluster/netty-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-communication-sync/netty-communication-sync.iml" filepath="$PROJECT_DIR$/netty-communication-sync/netty-communication-sync.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-demo-1-12/netty-demo-1-12.iml" filepath="$PROJECT_DIR$/netty-demo-1-12/netty-demo-1-12.iml" />
